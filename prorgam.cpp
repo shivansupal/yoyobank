@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #include<conio>
-#include<math>
+
 #include<iostream>
 #include<string>
 using namespace std;
